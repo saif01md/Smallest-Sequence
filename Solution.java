@@ -45,3 +45,7 @@ public class Solution {
         
     }
 }
+
+
+// You dont need to make a HashSet . 
+//Your (currentNode > lowestNumber) will handle the case of equality such that no equal values are stored in the result array.
